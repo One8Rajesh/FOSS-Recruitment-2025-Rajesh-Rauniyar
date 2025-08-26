@@ -1,82 +1,82 @@
-# Project Title: Write your project name here
+ Juice Vibe Website
 
-## Student Details
-- **Name**: Your Full Name  
-- **PRN**: Your PRN  
-- **Year**: FY/SY/TY/Final Year  
-- **Branch**: Your Branch  
+Student Details
 
----
+Name: Rajesh Rauniyar
+PRN: 24070122277
+Year: sy
+Branch: CSE
 
-## Problem Statement
-Write in 2–3 lines what problem your project solves.  
-Example: "Students often forget their daily timetable. This project shows today's timetable in one click."
+Project Title
+Juice Vibe – A Refreshing Juice Bar Website
 
----
+ Problem Statement:
+In today’s busy lifestyle, people often struggle to find fresh and healthy juice options online. This project solves the problem by providing an easy-to-use website where users can explore juice varieties, learn about the brand, read customer reviews, and quickly find contact information.
 
-## Features
-List the main things your project can do.  
-Example:  
-- Show today's timetable  
-- Remind with notifications  
-- Works offline 
+✨ Features
+Interactive Home page with hero section and call-to-action buttons.
 
----
+About Us section describing the brand’s mission and values.
 
-## Tech Stack
-List the tools or languages you used.  
-Example: Python, HTML, CSS, JavaScript, Arduino, etc.
+Menu Section showcasing different juice flavors with images and descriptions.
 
----
+Testimonial Section with real customer reviews.
 
-## How to Run
-Explain step by step how to run your project.  
-Example:  
-1. Open the folder in VS Code.  
-2. Run `python main.py`  
-3. The program will start in offline mode.
+Contact Section with email, phone, address, and social media links.
 
----
+Fully responsive design (works on desktop, tablet, and mobile).
 
-## Project Structure
+Smooth scrolling navigation with hamburger menu for smaller screens.
 
-your-project/ ├── README.md ├── src/        # your code ├── docs/       # (optional) documentation └── sample_output/   # (optional) if you use APIs
+🛠 Tech Stack
 
----
+HTML
+CSS
+JavaScript
 
-## Demo Screenshot / Output
-Add a screenshot of your project running, or copy-paste sample terminal output here.
+ How to Run:
+Download or clone the project folder.
 
----
+Open the folder in VS Code or any code editor.
 
-## AI Tools Used
-List any AI tools you used (if any).  
-Example: ChatGPT, GitHub Copilot, Cursor, Gemini, etc.  
-If not used, write "None".
+Locate the file: project1.html.
 
----
+Right-click → Open with Live Server (or open directly in browser).
 
-## Future Improvements
-Write how you would improve this project if you had more time.  
-Example: Add more features, make a better design, connect to API, etc.
+The website will run locally on your browser.
 
+📂 Project Structure
+JuiceVibe-Website/
+├── project1.html       # Main HTML file
+├── juice-logo.png      # Logo image
+├── fruit-hero.png      # Hero section image
+├── about-fruit.jpg     # About section image
+├── pineapple.png       # Menu images
+├── watermelon.png
+├── mango.png
+├── kiwi.png
+├── papaya.png
+├── avocardo.png
+├── user1.jpg           # Testimonial images
+├── user2.jpg
+├── user3.jpg
+├── user4.jpg
+├── user5.jpg
+└── README.md           # Project documentation
 
----
+ AI Tools Used:
+ChatGPT for making only responsive
 
-## Notes for Reviewers
-Any extra note for the FOSS team.  
-Example: "This project runs offline by default." or "Needs an internet connection."
+NOTE:
+This repository was re-uploaded for submission purposes. Since the project folder was already linked to another repository earlier, this new repository might not display the complete commit history or previous commit messages.
 
----
+Future Improvements:
+Add online ordering system with cart & checkout.
 
-## Submission Checklist 
-- [x] Cloned the Repository 
-- [ ] Added my details (Name, PRN, Year, Branch)  
-- [ ] Wrote Problem Statement  
-- [ ] Listed Features & Tech Stack  
-- [ ] Added clear Run Instructions  
-- [ ] Provided Demo Output (screenshot or text)  
-- [ ] Listed AI tools used (or None)  
-- [ ] Explained Future Improvements  
-- [ ] Project runs offline
+Integrate Google Maps for store location.
 
+Add search and filter for juices.
+
+Improve SEO for better ranking.
+
+Create a backend for real-time order management.
